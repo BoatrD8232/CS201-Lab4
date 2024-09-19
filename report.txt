@@ -1,0 +1,14 @@
+Rudy C 26.0092
+Nikola C 30.6722
+Domantas PF 21.7711
+LeBron PF 22.52
+Giannis PF 24.9871
+Chris PG 16.949
+Dejounte PG 17.2206
+Luka PG 18.1924
+Jaylen SF 11.8379
+Mikal SF 12.0312
+Jayson SF 13.8456
+Zach SG 12.2797
+Josh SG 14.2171
+Tyrese SG 15.3711
